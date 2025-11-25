@@ -69,4 +69,4 @@ The last job deploys the application to Heroku.
           heroku_app_name: ${{secrets.HEROKU_APP}}
 ```
 
-This repository also includes the seperate and simplified versions of these jobs in their seperate files.
+This repository also includes the seperate and simplified versions of these jobs in their seperate files. 
