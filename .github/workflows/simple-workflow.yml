@@ -2,8 +2,8 @@ name: Simple Workflow
 
 # Déclencheurs
 on:
-  schedule:
-    - cron: "0 * * * *"   # Exécution toutes les heures
+  #schedule:
+  #  - cron: "0 * * * *"   # Exécution toutes les heures
   workflow_dispatch:       # Exécution manuelle
 
 jobs:
